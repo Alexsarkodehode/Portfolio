@@ -1,3 +1,21 @@
-button .knapp{
-    border-radius: 30%;
+
+.portfolio-knapp{
+margin-right: 70rem;
+}
+body{
+  background-color: #151925; 
+}
+    
+button, .knapp{
+    margin-top: 2rem;
+border-radius: 10%;
+border: 0px;
+}
+
+div, .setning{
+    color: white;
+}
+
+.bilde{
+   margin-right: 50rem;
 }
