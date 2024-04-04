@@ -1,13 +1,20 @@
-
-.portfolio-knapp{
-margin-right: 50rem;
+font-face{
+  
 }
 body{
   background-color: #151925; 
   margin-left: 5rem;
 }
     
+.portfolio-knapp{
+margin-right: 50rem;
+}
+
+
 button, .knapp{
+  background-color: #151925;
+  color: white;
+
     margin-top: 2rem;
     border-radius: 10%;
     border: 0px;
@@ -22,6 +29,20 @@ div, .setning{
   margin-top: 1rem;
 }
 
-.bilde{
-   margin-right: 50rem;
+.bilde-div{
+  margin-top: 5rem;
+  margin-left: 20rem;
+  width: 40rem;
+  height: 40rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
 }
+
+.bilde{
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
+
