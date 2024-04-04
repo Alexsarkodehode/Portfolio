@@ -1,15 +1,17 @@
 
 .portfolio-knapp{
-margin-right: 70rem;
+margin-right: 50rem;
 }
 body{
   background-color: #151925; 
+  margin-left: 5rem;
 }
     
 button, .knapp{
     margin-top: 2rem;
-border-radius: 10%;
-border: 0px;
+    border-radius: 10%;
+    border: 0px;
+    justify-content: space-between;
 }
 
 div, .setning{
