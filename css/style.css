@@ -18,6 +18,10 @@ div, .setning{
     color: white;
 }
 
+.pitch-div{
+  margin-top: 1rem;
+}
+
 .bilde{
    margin-right: 50rem;
 }
